@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* I have learned some interesting ways to write some magic in html and to summarize these below
+    * headers from h1, h2, h3  size tags, remember h1 is largest
+    * paragraphs p tag
+    * bold letters b tag
+    * italics i tag or emphasis em tag
+    * inserting images img src="" tag
+    * inserting hyperlink a href="" tag
+    * inserting superscript using sup or sub tag
+    * inserting lines using br tag
+    * always remember that every good thing has a beginning and an end so use <> </>
+    * keep your content in the body tag
+
+
+* I found setting the layout easy using headers and paragraphs
+* It was difficult to understand inserting images and hyperlinks until I had a few examples to complete.
+* I keep asking myself what have I learn't, keep trying because the best is yet to come and the harder it may feel, the better it is once its' done.
